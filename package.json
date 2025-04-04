@@ -1,0 +1,29 @@
+{
+  "name": "savatora-plugin-web",
+  "version": "0.0.1",
+  "description": "Server application plugin for node.js - module for publishing static content on the web.",
+  "author": "masato nakatsuji",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "mime-types": "^3.0.1"
+  },
+  "devDependencies": {
+    "mime-types": "^3.0.1"
+  },
+  "keywords": [
+      "node",
+      "npm",
+      "server",
+      "savatora",
+      "plugin"
+  ],
+  "repository": {
+      "type": "git",
+      "url": "git+https://github.com/masatonakatsuji2021/savatora-plugin-web.git"
+  },
+  "bugs": {
+      "url": "https://github.com/masatonakatsuji2021/savatora-plugin-web/issues"
+  },
+  "homepage": ""
+}
